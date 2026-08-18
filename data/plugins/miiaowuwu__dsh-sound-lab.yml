@@ -1,0 +1,6 @@
+url: https://github.com/miiaowuwu/dsh-sound-lab
+name: miiaowuwu/dsh-sound-lab
+category: session
+description:
+  en: 'DSH Sound Lab: event sounds for session end/options/permission/stop, AI character voice lines, and a sound library — every sound yours to customize, ready to use out of the box ([npm: dsh-sound-lab](https://www.npmjs.com/package/dsh-sound-lab)).'
+  zh: 'DSH 声音工坊（Sound Lab）：会话结束/弹出选项/请求许可/停止时的事件音效、AI 角色语音生成、音效库管理——一切声音由你自定义、开箱即用（[npm: dsh-sound-lab](https://www.npmjs.com/package/dsh-sound-lab)）。'
